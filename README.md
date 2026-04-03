@@ -123,15 +123,19 @@ We evaluate three primary setups to satisfy the reproducibility requirements:
 
 ## Reproducibility
 
-To reproduce the results from scratch, clone this repository and run the training script. 
-
-```bash
 # Clone the repository
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone https://github.com/MedhanshSharma2004/gn638_assignment_3.git
+cd gn638_assignment_3
 
-# Run the training script with the ECA module
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the training script for ResNet-50 with ECA
 python main.py --model resnet50 --eca
+
+# Run the training script for MobileNetV2 with ECA
+python main.py --model mobilenetv2 --eca
+
 ```
 
 ### Configuration Setup
