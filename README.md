@@ -144,7 +144,7 @@ lr: 0.01
 num_workers: 8
 num_classes: 10
 image_size: 224 
-num_epochs: 20
+num_epochs: 50
 momentum: 0.9
 train_dir: "data/Fast Food Classification V2/Train"
 val_dir: "data/Fast Food Classification V2/Valid"
