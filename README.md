@@ -31,7 +31,7 @@ The **ECA module** addresses this by:
 
 ---
 
-**ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks** *Qilong Wang, Banggu Wu, Pengfei Zhu, Peihua Li, Wangmeng Zuo, Qinghua Hu* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_ECA-Net_Efficient_Channel_Attention_for_Deep_Convolutional_Neural_Networks_CVPR_2020_paper.pdf)] [[Code](https://github.com/BangguWu/ECANet)]
+## ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks** *Qilong Wang, Banggu Wu, Pengfei Zhu, Peihua Li, Wangmeng Zuo, Qinghua Hu* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_ECA-Net_Efficient_Channel_Attention_for_Deep_Convolutional_Neural_Networks_CVPR_2020_paper.pdf)] [[Code](https://github.com/BangguWu/ECANet)]
 
 ECA works by:
 1. Extracting global channel descriptors using Global Average Pooling.
