@@ -122,7 +122,7 @@ We evaluate three primary setups to satisfy the reproducibility requirements:
 ---
 
 ## Reproducibility
-
+```
 ### Clone the repository
 git clone https://github.com/MedhanshSharma2004/gn638_assignment_3.git
 
