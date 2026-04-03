@@ -122,21 +122,22 @@ We evaluate three primary setups to satisfy the reproducibility requirements:
 ---
 
 ## Reproducibility
-```
 ### Clone the repository
+```
 git clone https://github.com/MedhanshSharma2004/gn638_assignment_3.git
-
 cd gn638_assignment_3
-
+```
 ### Install dependencies
+```
 pip install -r requirements.txt
-
+```
 ### Run the training script for ResNet-50 with ECA
+```
 python main.py --model resnet50 --eca
-
+```
 ### Run the training script for MobileNetV2 with ECA
+```
 python main.py --model mobilenetv2 --eca
-
 ```
 
 ### Configuration Setup
