@@ -1,0 +1,67 @@
+Using device: cuda
+
+Using model: mobilenetv2 | ECA: True
+
+Loading Dataset
+Epoch 1/50, Training Loss: 2.2917, Training Accuracy (Top-1): 0.1386, Training Accuracy (Top-5): 0.5673, Validation Loss: 2.4034, Validation Accuracy (Top-1): 0.1326, Validation Accuracy (Top-5): 0.6346
+Epoch 2/50, Training Loss: 2.1473, Training Accuracy (Top-1): 0.2250, Training Accuracy (Top-5): 0.6937, Validation Loss: 2.2369, Validation Accuracy (Top-1): 0.2294, Validation Accuracy (Top-5): 0.7514
+Epoch 3/50, Training Loss: 2.0653, Training Accuracy (Top-1): 0.2646, Training Accuracy (Top-5): 0.7393, Validation Loss: 2.0075, Validation Accuracy (Top-1): 0.2880, Validation Accuracy (Top-5): 0.7709
+Epoch 4/50, Training Loss: 1.9907, Training Accuracy (Top-1): 0.2936, Training Accuracy (Top-5): 0.7643, Validation Loss: 1.8031, Validation Accuracy (Top-1): 0.3957, Validation Accuracy (Top-5): 0.8089
+Epoch 5/50, Training Loss: 1.8938, Training Accuracy (Top-1): 0.3436, Training Accuracy (Top-5): 0.8018, Validation Loss: 1.8949, Validation Accuracy (Top-1): 0.3803, Validation Accuracy (Top-5): 0.8083
+Epoch 6/50, Training Loss: 1.7747, Training Accuracy (Top-1): 0.3908, Training Accuracy (Top-5): 0.8265, Validation Loss: 1.8108, Validation Accuracy (Top-1): 0.4214, Validation Accuracy (Top-5): 0.8380
+Epoch 7/50, Training Loss: 1.6867, Training Accuracy (Top-1): 0.4286, Training Accuracy (Top-5): 0.8486, Validation Loss: 1.5562, Validation Accuracy (Top-1): 0.4923, Validation Accuracy (Top-5): 0.8886
+Epoch 8/50, Training Loss: 1.6032, Training Accuracy (Top-1): 0.4553, Training Accuracy (Top-5): 0.8653, Validation Loss: 1.5197, Validation Accuracy (Top-1): 0.5011, Validation Accuracy (Top-5): 0.8746
+Epoch 9/50, Training Loss: 1.5330, Training Accuracy (Top-1): 0.4860, Training Accuracy (Top-5): 0.8781, Validation Loss: 1.4846, Validation Accuracy (Top-1): 0.5163, Validation Accuracy (Top-5): 0.8923
+Epoch 10/50, Training Loss: 1.4780, Training Accuracy (Top-1): 0.5077, Training Accuracy (Top-5): 0.8859, Validation Loss: 1.5255, Validation Accuracy (Top-1): 0.5200, Validation Accuracy (Top-5): 0.8911
+Epoch 11/50, Training Loss: 1.4288, Training Accuracy (Top-1): 0.5217, Training Accuracy (Top-5): 0.8939, Validation Loss: 1.4333, Validation Accuracy (Top-1): 0.5469, Validation Accuracy (Top-5): 0.8991
+Epoch 12/50, Training Loss: 1.3824, Training Accuracy (Top-1): 0.5425, Training Accuracy (Top-5): 0.9004, Validation Loss: 1.4511, Validation Accuracy (Top-1): 0.5406, Validation Accuracy (Top-5): 0.9014
+Epoch 13/50, Training Loss: 1.3316, Training Accuracy (Top-1): 0.5611, Training Accuracy (Top-5): 0.9056, Validation Loss: 1.3458, Validation Accuracy (Top-1): 0.6003, Validation Accuracy (Top-5): 0.9029
+Epoch 14/50, Training Loss: 1.2817, Training Accuracy (Top-1): 0.5768, Training Accuracy (Top-5): 0.9133, Validation Loss: 1.2661, Validation Accuracy (Top-1): 0.6226, Validation Accuracy (Top-5): 0.9097
+Epoch 15/50, Training Loss: 1.2647, Training Accuracy (Top-1): 0.5763, Training Accuracy (Top-5): 0.9167, Validation Loss: 1.1887, Validation Accuracy (Top-1): 0.6277, Validation Accuracy (Top-5): 0.9251
+Epoch 16/50, Training Loss: 1.2330, Training Accuracy (Top-1): 0.5958, Training Accuracy (Top-5): 0.9184, Validation Loss: 1.4789, Validation Accuracy (Top-1): 0.5749, Validation Accuracy (Top-5): 0.8923
+Epoch 17/50, Training Loss: 1.2064, Training Accuracy (Top-1): 0.6055, Training Accuracy (Top-5): 0.9227, Validation Loss: 1.2204, Validation Accuracy (Top-1): 0.6294, Validation Accuracy (Top-5): 0.9254
+Epoch 18/50, Training Loss: 1.1678, Training Accuracy (Top-1): 0.6159, Training Accuracy (Top-5): 0.9278, Validation Loss: 1.1104, Validation Accuracy (Top-1): 0.6486, Validation Accuracy (Top-5): 0.9417
+Epoch 19/50, Training Loss: 1.1425, Training Accuracy (Top-1): 0.6221, Training Accuracy (Top-5): 0.9303, Validation Loss: 1.1132, Validation Accuracy (Top-1): 0.6634, Validation Accuracy (Top-5): 0.9391
+Epoch 20/50, Training Loss: 1.1165, Training Accuracy (Top-1): 0.6394, Training Accuracy (Top-5): 0.9318, Validation Loss: 1.0637, Validation Accuracy (Top-1): 0.6674, Validation Accuracy (Top-5): 0.9389
+Epoch 21/50, Training Loss: 1.0988, Training Accuracy (Top-1): 0.6373, Training Accuracy (Top-5): 0.9338, Validation Loss: 1.0057, Validation Accuracy (Top-1): 0.6960, Validation Accuracy (Top-5): 0.9466
+Epoch 22/50, Training Loss: 1.0715, Training Accuracy (Top-1): 0.6455, Training Accuracy (Top-5): 0.9380, Validation Loss: 0.9960, Validation Accuracy (Top-1): 0.6851, Validation Accuracy (Top-5): 0.9494
+Epoch 23/50, Training Loss: 1.0529, Training Accuracy (Top-1): 0.6544, Training Accuracy (Top-5): 0.9361, Validation Loss: 1.0371, Validation Accuracy (Top-1): 0.6871, Validation Accuracy (Top-5): 0.9377
+Epoch 24/50, Training Loss: 1.0196, Training Accuracy (Top-1): 0.6659, Training Accuracy (Top-5): 0.9417, Validation Loss: 0.9779, Validation Accuracy (Top-1): 0.7071, Validation Accuracy (Top-5): 0.9389
+Epoch 25/50, Training Loss: 1.0314, Training Accuracy (Top-1): 0.6640, Training Accuracy (Top-5): 0.9375, Validation Loss: 0.9986, Validation Accuracy (Top-1): 0.6957, Validation Accuracy (Top-5): 0.9420
+Epoch 26/50, Training Loss: 0.9868, Training Accuracy (Top-1): 0.6757, Training Accuracy (Top-5): 0.9448, Validation Loss: 1.0817, Validation Accuracy (Top-1): 0.6751, Validation Accuracy (Top-5): 0.9423
+Epoch 27/50, Training Loss: 0.9791, Training Accuracy (Top-1): 0.6829, Training Accuracy (Top-5): 0.9452, Validation Loss: 0.9709, Validation Accuracy (Top-1): 0.7103, Validation Accuracy (Top-5): 0.9500
+Epoch 28/50, Training Loss: 0.9664, Training Accuracy (Top-1): 0.6778, Training Accuracy (Top-5): 0.9451, Validation Loss: 0.9187, Validation Accuracy (Top-1): 0.7260, Validation Accuracy (Top-5): 0.9534
+Epoch 29/50, Training Loss: 0.9465, Training Accuracy (Top-1): 0.6915, Training Accuracy (Top-5): 0.9489, Validation Loss: 0.9485, Validation Accuracy (Top-1): 0.7243, Validation Accuracy (Top-5): 0.9477
+Epoch 30/50, Training Loss: 0.9328, Training Accuracy (Top-1): 0.6899, Training Accuracy (Top-5): 0.9458, Validation Loss: 0.8969, Validation Accuracy (Top-1): 0.7389, Validation Accuracy (Top-5): 0.9517
+Epoch 31/50, Training Loss: 0.9282, Training Accuracy (Top-1): 0.6988, Training Accuracy (Top-5): 0.9505, Validation Loss: 0.9428, Validation Accuracy (Top-1): 0.7186, Validation Accuracy (Top-5): 0.9543
+Epoch 32/50, Training Loss: 0.9076, Training Accuracy (Top-1): 0.7019, Training Accuracy (Top-5): 0.9514, Validation Loss: 0.9494, Validation Accuracy (Top-1): 0.7106, Validation Accuracy (Top-5): 0.9546
+Epoch 33/50, Training Loss: 0.8982, Training Accuracy (Top-1): 0.7078, Training Accuracy (Top-5): 0.9515, Validation Loss: 0.9409, Validation Accuracy (Top-1): 0.7291, Validation Accuracy (Top-5): 0.9523
+Epoch 34/50, Training Loss: 0.8839, Training Accuracy (Top-1): 0.7086, Training Accuracy (Top-5): 0.9553, Validation Loss: 0.8846, Validation Accuracy (Top-1): 0.7314, Validation Accuracy (Top-5): 0.9586
+Epoch 35/50, Training Loss: 0.8724, Training Accuracy (Top-1): 0.7152, Training Accuracy (Top-5): 0.9562, Validation Loss: 0.8603, Validation Accuracy (Top-1): 0.7580, Validation Accuracy (Top-5): 0.9551
+Epoch 36/50, Training Loss: 0.8569, Training Accuracy (Top-1): 0.7254, Training Accuracy (Top-5): 0.9556, Validation Loss: 0.8558, Validation Accuracy (Top-1): 0.7457, Validation Accuracy (Top-5): 0.9569
+Epoch 37/50, Training Loss: 0.8385, Training Accuracy (Top-1): 0.7255, Training Accuracy (Top-5): 0.9561, Validation Loss: 0.8895, Validation Accuracy (Top-1): 0.7363, Validation Accuracy (Top-5): 0.9560
+Epoch 38/50, Training Loss: 0.8329, Training Accuracy (Top-1): 0.7279, Training Accuracy (Top-5): 0.9591, Validation Loss: 0.8562, Validation Accuracy (Top-1): 0.7469, Validation Accuracy (Top-5): 0.9583
+Epoch 39/50, Training Loss: 0.8241, Training Accuracy (Top-1): 0.7301, Training Accuracy (Top-5): 0.9583, Validation Loss: 0.8000, Validation Accuracy (Top-1): 0.7594, Validation Accuracy (Top-5): 0.9609
+Epoch 40/50, Training Loss: 0.8026, Training Accuracy (Top-1): 0.7367, Training Accuracy (Top-5): 0.9606, Validation Loss: 0.8426, Validation Accuracy (Top-1): 0.7563, Validation Accuracy (Top-5): 0.9583
+Epoch 41/50, Training Loss: 0.8079, Training Accuracy (Top-1): 0.7375, Training Accuracy (Top-5): 0.9595, Validation Loss: 0.7874, Validation Accuracy (Top-1): 0.7603, Validation Accuracy (Top-5): 0.9609
+Epoch 42/50, Training Loss: 0.7968, Training Accuracy (Top-1): 0.7399, Training Accuracy (Top-5): 0.9572, Validation Loss: 0.8190, Validation Accuracy (Top-1): 0.7471, Validation Accuracy (Top-5): 0.9631
+Epoch 43/50, Training Loss: 0.7918, Training Accuracy (Top-1): 0.7417, Training Accuracy (Top-5): 0.9633, Validation Loss: 0.7956, Validation Accuracy (Top-1): 0.7586, Validation Accuracy (Top-5): 0.9623
+Epoch 44/50, Training Loss: 0.7815, Training Accuracy (Top-1): 0.7463, Training Accuracy (Top-5): 0.9614, Validation Loss: 0.8041, Validation Accuracy (Top-1): 0.7646, Validation Accuracy (Top-5): 0.9640
+Epoch 45/50, Training Loss: 0.7653, Training Accuracy (Top-1): 0.7498, Training Accuracy (Top-5): 0.9606, Validation Loss: 0.8182, Validation Accuracy (Top-1): 0.7660, Validation Accuracy (Top-5): 0.9589
+Epoch 46/50, Training Loss: 0.7634, Training Accuracy (Top-1): 0.7523, Training Accuracy (Top-5): 0.9647, Validation Loss: 0.8479, Validation Accuracy (Top-1): 0.7629, Validation Accuracy (Top-5): 0.9586
+Epoch 47/50, Training Loss: 0.7519, Training Accuracy (Top-1): 0.7542, Training Accuracy (Top-5): 0.9633, Validation Loss: 0.8211, Validation Accuracy (Top-1): 0.7683, Validation Accuracy (Top-5): 0.9600
+Epoch 48/50, Training Loss: 0.7437, Training Accuracy (Top-1): 0.7545, Training Accuracy (Top-5): 0.9659, Validation Loss: 0.8397, Validation Accuracy (Top-1): 0.7531, Validation Accuracy (Top-5): 0.9589
+Epoch 49/50, Training Loss: 0.7503, Training Accuracy (Top-1): 0.7583, Training Accuracy (Top-5): 0.9641, Validation Loss: 0.8841, Validation Accuracy (Top-1): 0.7406, Validation Accuracy (Top-5): 0.9551
+Epoch 50/50, Training Loss: 0.7400, Training Accuracy (Top-1): 0.7546, Training Accuracy (Top-5): 0.9661, Validation Loss: 0.8429, Validation Accuracy (Top-1): 0.7534, Validation Accuracy (Top-5): 0.9554
+-------- Model metrics --------
+[INFO] Register count_convNd() for <class 'torch.nn.modules.conv.Conv2d'>.
+[INFO] Register count_normalization() for <class 'torch.nn.modules.batchnorm.BatchNorm2d'>.
+[INFO] Register zero_ops() for <class 'torch.nn.modules.activation.ReLU6'>.
+[INFO] Register zero_ops() for <class 'torch.nn.modules.container.Sequential'>.
+[INFO] Register count_adap_avgpool() for <class 'torch.nn.modules.pooling.AdaptiveAvgPool2d'>.
+[INFO] Register count_convNd() for <class 'torch.nn.modules.conv.Conv1d'>.
+[INFO] Register zero_ops() for <class 'torch.nn.modules.dropout.Dropout'>.
+[INFO] Register count_linear() for <class 'torch.nn.modules.linear.Linear'>.
+FLOPs: 653598912.0, Number of parameters: 2236758.0, Training FPS: 577.1896448430334, Validation FPS: 1006.8148192913716
+
+Top-1 accuracy using mobilenetv2_eca: 0.7682857142857142, Top-5 accuracy using mobilenetv2_eca: 0.964
