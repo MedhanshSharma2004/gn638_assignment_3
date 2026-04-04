@@ -1,5 +1,6 @@
 # GNR-638: Machine Learning for Remote Sensing - II  
-## Assignment 3 — Efficient Channel Attention (ECA)
+# Assignment-3
+## ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks *Qilong Wang, Banggu Wu, Pengfei Zhu, Peihua Li, Wangmeng Zuo, Qinghua Hu* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_ECA-Net_Efficient_Channel_Attention_for_Deep_Convolutional_Neural_Networks_CVPR_2020_paper.pdf)] [[Code](https://github.com/BangguWu/ECANet)]
 
 **Name:** Medhansh Sharma  
 **Roll No.:** 22b1287  
@@ -31,17 +32,11 @@ The **ECA module** addresses this by:
 
 ---
 
-## ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks *Qilong Wang, Banggu Wu, Pengfei Zhu, Peihua Li, Wangmeng Zuo, Qinghua Hu* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_ECA-Net_Efficient_Channel_Attention_for_Deep_Convolutional_Neural_Networks_CVPR_2020_paper.pdf)] [[Code](https://github.com/BangguWu/ECANet)]
-
 ECA works by:
 1. Extracting global channel descriptors using Global Average Pooling.
 2. Applying **local cross-channel interaction** via an adaptive 1D convolution.
 3. Generating attention weights using a Sigmoid activation function.
-4. Re-weighting feature maps channel-wise.
-
-**Advantages:** No fully connected layers  
- Minimal parameters  
- Efficient and scalable  
+4. Re-weighting feature maps channel-wise. 
 
 ---
 
@@ -59,7 +54,7 @@ We evaluate three primary setups to satisfy the reproducibility requirements:
   - MobileNetV2 inverted residual blocks.  
 
 ### 3. Official Implementation
-- Used for validation and benchmarking against the original paper's parameter counts and FLOPs.  
+- Used for validation and benchmarking against the original paper's implementation.  
 
 ---
 
