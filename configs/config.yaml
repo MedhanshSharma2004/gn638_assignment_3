@@ -1,7 +1,7 @@
 batch_size: 128
 seed: 42
 lr: 0.01
-num_workers: 8
+num_workers: 4
 num_classes: 10
 image_size: 224 
 num_epochs: 20
